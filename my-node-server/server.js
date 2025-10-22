@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const express = require("express");
 const cors = require("cors");
 const app = express();
@@ -26,3 +27,16 @@ app.use("/api/reports", reportRoutes);
 app.listen(PORT, () => {
   console.log(`Express server running at http://localhost:${PORT}/`);
 });
+=======
+const express = require('express');
+const app = express();
+const port = 5000;
+
+app.get('/', (req, res) => {
+  res.json({ message: 'Hello from Server!' });
+});
+
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
+>>>>>>> fff7ddcbab2972681ccdf5a6bb65acf46a2be1d4
