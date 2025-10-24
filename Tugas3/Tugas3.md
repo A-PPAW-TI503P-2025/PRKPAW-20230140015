@@ -2,5 +2,4 @@
 2. Check-in ketika double ![alt text](https://github.com/rcslbaa/oi/blob/main/POST-Check%20in%20ketika%20double.png?raw=true)
 3. Check-out ![alt text](https://github.com/rcslbaa/oi/blob/main/POST-Check%20out.png?raw=true)
 4. Check-out ketika double ![alt text](https://github.com/rcslbaa/oi/blob/main/POST-Check%20out%20ketika%20double.png?raw=true)
-5. Reports/daily Karyawan ![alt text](https://github.com/rcslbaa/oi/blob/main/GET-Karyawan.png?raw=true)
-6. Reports/daily Admin ![alt text](https://github.com/rcslbaa/oi/blob/main/GET-Admin.png?raw=true)
+5. Reports/daily ![alt text](https://github.com/rcslbaa/oi/blob/main/GET-Karyawan.png?raw=true)
