@@ -1,0 +1,5 @@
+1. Endpoint update data presensi ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas5/update%20data%20presensi.png?raw=true)
+2. Endpoint update jika format tanggal yang diisi tidak valid ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas5/update%20jika%20format%20tanggal%20yang%20diisi%20tidak%20valid.png?raw=true)
+3. Endpoint delete data ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas5/delete%20data.png?raw=true)
+4. Endpoint search berdasarkan nama ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas5/search%20berdasarkan%20nama.png?raw=true)
+5. Endpoint search berdasarkan tanggal ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas5/search%20berdasarkan%20tanggal.png?raw=true)
