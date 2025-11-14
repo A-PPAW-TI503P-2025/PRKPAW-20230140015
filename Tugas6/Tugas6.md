@@ -1,0 +1,5 @@
+1. Endpoint post register mahasiswa ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas6/Endpoint%20Post%20Register%20Mahasiswa.png?raw=true)
+2. Endpoint post register admin ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas6/Endpoint%20Post%20Register%20Admin.png?raw=true)
+3. Endpoint post login mahasiswa ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas6/Endpoint%20Post%20Login%20Mahasiswa.png?raw=true)
+4. Endpoint post login admin ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas6/Endpoint%20Post%20Login%20Admin.png?raw=true)
+5. Endpoint database ![alt text](https://github.com/A-PPAW-TI503P-2025/PRKPAW-20230140015/blob/main/Tugas6/Endpoint%20Database.png?raw=true)
